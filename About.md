@@ -10,6 +10,6 @@ hello world!
 
 ### 联系方式
 
-mail：[zhiqihe@ouylook.com](mailto:zhiqihe@ouylook.com)
-blog： [https://hezhiqi.blog.csdn.net](https://hezhiqi.github.io)   
-GitHub: [https://github.com/hezhiqi](https://github.com/hezhiqi)  
+mail：[zhiqihe@ouylook.com](mailto:hezhiqi@ouylook.com)
+blog： [https://hezhiqi.github.io](https://hezhiqi.github.io)   
+

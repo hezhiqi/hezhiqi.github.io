@@ -5,7 +5,7 @@ hzq
 JAVA Development 
 
 
-Blog: [https://zhiqihe.github.io/](https://zhiqihe.github.io/)  
+Blog: [https://hezhiqi.github.io/](https://hezhiqi.github.io/)  
 
 
 

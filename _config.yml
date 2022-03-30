@@ -47,12 +47,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "何志奇"
+      author: "hezhiqi"
       permalink: "/post/:title.html"
   - scope:
       path: "_articles"
       type: "articles"
     values:
       layout: "post"
-      author: "何志奇"
+      author: "hezhiqi"
       permalink: "/article/:title.html"
