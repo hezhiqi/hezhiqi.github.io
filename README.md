@@ -1,26 +1,13 @@
-# Microdust 微尘
+# lindexi
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+林德熙
 
-## Thanks
+Windows Development MVP
 
-The blog used many tool/service,many thanks to:
+微软最具价值专家
 
-* [Github](https://github.com/), all the data based on;
-* [Git](https://git-scm.com/), blogs and code files version control system;
-* [Jekyll](http://jekyllrb.com/), a static site generator;
-* [Clean Blog Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll), a theme by Start Bootstrap;
-* [Markdown](https://daringfireball.net/projects/markdown/), a beautiful lightweight markup language.
-* [DNSPod](https://www.dnspod.cn/), the DNS service provider who surport the domain name resolution;
-* [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
-* [Google](http://google.com), the one who tell me how to make it.
-* …
+Blog: [https://blog.lindexi.com/](https://blog.lindexi.com/)  
+CSDN: [https://lindexi.blog.csdn.net/](https://lindexi.blog.csdn.net/)
 
-## How To Creat A Jekyll Blog
 
-[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
-
-Build your blog Step by step
-## Just write
-
-Start writing now！
+![](https://github-readme-stats.vercel.app/api?username=lindexi&show_icons=true)
