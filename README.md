@@ -1,13 +1,12 @@
 # lindexi
 
-林德熙
+hzq
 
-Windows Development MVP
+JAVA Development 
 
-微软最具价值专家
 
-Blog: [https://blog.lindexi.com/](https://blog.lindexi.com/)  
-CSDN: [https://lindexi.blog.csdn.net/](https://lindexi.blog.csdn.net/)
+Blog: [https://zhiqihe.github.io/](https://zhiqihe.github.io/)  
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=lindexi&show_icons=true)

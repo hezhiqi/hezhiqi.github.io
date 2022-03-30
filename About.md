@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于ME
-display_title: 何志奇
+display_title: hezhiqi
 permalink: /about/
 ---
 
