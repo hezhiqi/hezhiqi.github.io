@@ -24,11 +24,12 @@
     "text": "关于",
     "url": "/about/",
     "icon": "fa-info"
-  },
-  {
-    "text": "RSS 订阅",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
+  // ,
+  // {
+  //   "text": "RSS 订阅",
+  //   "url": "/feed.xml",
+  //   "icon": "fa-feed",
+  //   "target": _blank
+  // }
 ]
