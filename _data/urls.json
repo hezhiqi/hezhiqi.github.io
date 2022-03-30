@@ -16,7 +16,7 @@
     "icon": "fa-group"
   },
   {
-    "text": "开源项目",
+    "text": "github",
     "url": "https://github.com/hezhiqi",
     "icon": "fa-github"
   },
@@ -25,11 +25,4 @@
     "url": "/about/",
     "icon": "fa-info"
   }
-  // ,
-  // {
-  //   "text": "RSS 订阅",
-  //   "url": "/feed.xml",
-  //   "icon": "fa-feed",
-  //   "target": _blank
-  // }
 ]
